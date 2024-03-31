@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "oss32",
       "repo": "https://github.com/jiganomegsdfdf/kuroneko_r_mt6765",
-      "branch": "master",
+      "branch": "upstream",
       "device": "blossom",
       "defconfig": "blossom_defconfig"
     },
