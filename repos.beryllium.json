@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm845",
-      "repo": "https://github.com/Akitlove/Xiaomi_Kernel_OpenSource-sdm845",
-      "branch": "88-zstd",
-      "device": "beryllium",
-      "defconfig": "beryllium_user_defconfig"
+      "name": "oss32",
+      "repo": "https://github.com/jiganomegsdfdf/kuroneko_r_mt6765",
+      "branch": "master",
+      "device": "blossom",
+      "defconfig": "blossom_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
