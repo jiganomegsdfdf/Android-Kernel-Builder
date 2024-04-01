@@ -4,8 +4,8 @@
       "name": "oss32",
       "repo": "https://github.com/blueseaxy/android_kernel_xiaomi_garden",
       "branch": "main",
-      "device": "blossom",
-      "defconfig": "blossom_defconfig"
+      "device": "garden",
+      "defconfig": "garden_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
