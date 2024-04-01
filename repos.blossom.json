@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "oss32",
-      "repo": "https://github.com/jiganomegsdfdf/kuroneko_r_mt6765",
-      "branch": "upstream",
+      "repo": "https://github.com/blueseaxy/android_kernel_xiaomi_garden",
+      "branch": "main",
       "device": "blossom",
       "defconfig": "blossom_defconfig"
     },
